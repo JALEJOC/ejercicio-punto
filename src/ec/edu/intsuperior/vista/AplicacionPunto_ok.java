@@ -296,6 +296,7 @@ public class AplicacionPunto_ok extends javax.swing.JFrame {
     private void btnImprimirActionPerformed(java.awt.event.ActionEvent evt) {//GEN-FIRST:event_btnImprimirActionPerformed
         // TODO add your handling code here:
        
+        
     }//GEN-LAST:event_btnImprimirActionPerformed
 
     private void btnSalirActionPerformed(java.awt.event.ActionEvent evt) {//GEN-FIRST:event_btnSalirActionPerformed
